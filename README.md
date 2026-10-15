@@ -23,8 +23,9 @@ owner-only editing, Google sign-in — works as in the first atlas.
 - Double-click **`standalone.html`** (single file, no server), or
 - `python3 -m http.server 8124` in this folder → http://localhost:8124
 
-Starts with **44 seed papers** from the lab's reading list. 19 have confirmed
-DOIs/titles (via Crossref); 25 older or ambiguous citations are seeded by label
+Starts with **67 seed papers**: the lab's reading list (44) plus 23 tail-related
+citations from Xun Fu's 2024 dissertation. Most have confirmed DOIs/titles (via
+Crossref); a few older or ambiguous citations are seeded by label
 with a *"DOI not yet confirmed"* note — open the paper → **Edit** → add the DOI.
 Species counts on seeds are estimates; revise them the same way.
 
